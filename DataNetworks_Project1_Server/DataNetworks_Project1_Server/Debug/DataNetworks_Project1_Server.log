@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\austenr\source\repos\datanetworks_project1_server\datanetworks_project1_server\source.cpp(70): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DataNetworks_Project1_Server.vcxproj -> C:\Users\AustenR\source\repos\DataNetworks_Project1_Server\Debug\DataNetworks_Project1_Server.exe

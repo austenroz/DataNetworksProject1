@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\austenr\source\repos\datanetworks_project1_client\datanetworks_project1_client\source.cpp(29): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\austenr\source\repos\datanetworks_project1_client\datanetworks_project1_client\source.cpp(90): warning C4018: '<': signed/unsigned mismatch
+  DataNetworks_Project1_Client.vcxproj -> C:\Users\AustenR\source\repos\DataNetworks_Project1_Client\Debug\DataNetworks_Project1_Client.exe
